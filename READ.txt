@@ -1,0 +1,6 @@
+app.js(backend)
+npm init
+npm i express
+
+frontend
+1-   npx create-react-app my-app
